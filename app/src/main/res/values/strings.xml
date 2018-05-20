@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HabitTrainer</string>
+    <string name="habit_icon">Habit icon</string>
+    <string name="drink_water">Drink water</string>
+    <string name="drink_water_description">A refreshing glass of water is hydrating</string>
+    <string name="begin_habit">Begin Habit…</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="save_habit">Save Habit</string>
+    <string name="habit_image">Habit image</string>
+</resources>
